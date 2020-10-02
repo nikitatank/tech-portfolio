@@ -2,7 +2,7 @@
 id: about
 title: About
 ---
-
+I am Nikita Tank, an R&D software engineer at WGU. I like challenging problem in could and watering my plants
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -25,8 +25,3 @@ Grace Hopper Celebration Attendee
 
 - 2020 Awesome Woman in Technology Award
 
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
